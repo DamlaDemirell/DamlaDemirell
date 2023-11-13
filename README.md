@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end, HTML5 , CSS , web desinger , web design. 
 - 🌱 I’m currently learning front- end development with Patika. 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  
 
 <!---
 DamlaDemirell/DamlaDemirell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
