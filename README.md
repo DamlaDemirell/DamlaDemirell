@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DamlaDemirell 
 - 👀 I’m interested in front-end, HTML5 , CSS , web desinger , web design. 
 - 🌱 I’m currently learning front- end development with Patika. 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ How to reach me damlademireel@gmail.com 
   
 
 <!---
